@@ -1,0 +1,15 @@
+/home/naomivanvossen/Documents/c#/roborally/bin/Debug/net7.0/roborally
+/home/naomivanvossen/Documents/c#/roborally/bin/Debug/net7.0/roborally.deps.json
+/home/naomivanvossen/Documents/c#/roborally/bin/Debug/net7.0/roborally.runtimeconfig.json
+/home/naomivanvossen/Documents/c#/roborally/bin/Debug/net7.0/roborally.dll
+/home/naomivanvossen/Documents/c#/roborally/bin/Debug/net7.0/roborally.pdb
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/roborally.csproj.AssemblyReference.cache
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/roborally.GeneratedMSBuildEditorConfig.editorconfig
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/roborally.AssemblyInfoInputs.cache
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/roborally.AssemblyInfo.cs
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/roborally.csproj.CoreCompileInputs.cache
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/roborally.dll
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/refint/roborally.dll
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/roborally.pdb
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/roborally.genruntimeconfig.cache
+/home/naomivanvossen/Documents/c#/roborally/obj/Debug/net7.0/ref/roborally.dll
